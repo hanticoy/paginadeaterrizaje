@@ -1,0 +1,9 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 2em;
+}
+
+.subtitulo {
+    font-size: xx-large;
+    color: goldenrod;
+}
